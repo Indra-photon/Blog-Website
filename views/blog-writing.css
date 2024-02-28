@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+}
+.form{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.main-text{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
