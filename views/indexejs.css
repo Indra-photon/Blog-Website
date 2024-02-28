@@ -108,6 +108,12 @@ button a{
     display: flex;
     margin-top: 20px;
 }
+.firehouse .one-blog{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
 .sample-post{
     width: 70%;
 }
